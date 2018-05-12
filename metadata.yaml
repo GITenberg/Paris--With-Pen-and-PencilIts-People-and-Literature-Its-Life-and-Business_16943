@@ -1,0 +1,33 @@
+_repo: Paris--With-Pen-and-PencilIts-People-and-Literature-Its-Life-and-Business_16943
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Bartlett, D. W. (David W.)
+    aliases:
+    - Bartlett, David W.
+    - Bartlett, David Vandewater Golden
+    birthdate: 1828
+    deathdate: 1912
+    gutenberg_agent_id: '7039'
+    url: http://www.gutenberg.org/2009/agents/7039
+description: ''
+gutenberg_bookshelf: France
+gutenberg_issued: '2005-10-25'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '16943'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'DC'
+- !lcsh 'Paris (France) -- Description and travel'
+- !lcsh 'Paris (France) -- Social life and customs'
+title: 'Paris: With Pen and Pencil
+
+  Its People and Literature, Its Life and Business'
+url: http://www.gutenberg.org/ebooks/16943
